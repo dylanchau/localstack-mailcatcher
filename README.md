@@ -1,1 +1,1 @@
-# This is demo of integration between localstack and mailcatcher
+## This is demo of integration between localstack and mailcatcher
